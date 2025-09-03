@@ -225,11 +225,11 @@ Bank-Data-Analysis-Project/
 
 **Arshia Kosha** - *Strategic Data Analyst & Business Intelligence Consultant*
 
-📧 **Email**: [arshia.kosha@example.com]  
+📧 **Email**: [arshia.kosha81@gmail.com]  
 🔗 **LinkedIn**: [linkedin.com/in/arshiakosha]  
 📱 **GitHub**: [github.com/ArshiaKosha]  
-🎓 **Program**: BTM Technology, York University  
-💼 **Position**: Vice President of Academics
+🎓 **Program**: Bcom Business Technology Management Honours, York University  
+💼 **Position**: Vice President of Academics, Analyst @ Speedy 
 
 ### **Core Competencies Demonstrated**
 
