@@ -221,34 +221,6 @@ streamlinebank-analysis/
 
 -----
 
-## 🚀 **Getting Started - Deploy Your Own Version**
-
-### **Quick Setup Instructions**
-
-1. **Create Repository**
-   
-   ```bash
-   # Create new repository on GitHub named: streamlinebank-analysis
-   git clone https://github.com/yourusername/streamlinebank-analysis.git
-   cd streamlinebank-analysis
-   ```
-1. **Setup Dashboard Structure**
-   
-   ```bash
-   mkdir dashboard data reports assets
-   mkdir assets/powerbi_screenshots assets/charts
-   ```
-1. **Deploy Dashboard**
-- Copy the dashboard HTML code into `dashboard/index.html`
-- Commit and push to GitHub
-- Enable GitHub Pages in repository settings
-- Select `main` branch as source
-1. **Access Live Dashboard**
-- Dashboard URL: `https://yourusername.github.io/streamlinebank-analysis/`
-- Update README links with your GitHub username
-
------
-
 ## 📧 **Professional Contact & Portfolio**
 
 **Arshia Kosha** - *Strategic Data Analyst & Business Intelligence Consultant*
