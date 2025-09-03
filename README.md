@@ -1,8 +1,8 @@
 # 📊 StreamlineBank Digital Transformation Analysis
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Dashboard-blue?style=for-the-badge&logo=github)](https://arshiakosha.github.io/streamlinebank-analysis/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://github.com/arshiakosha/streamlinebank-analysis)
-[![Excel Analysis](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel)](https://github.com/arshiakosha/streamlinebank-analysis)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Dashboard-blue?style=for-the-badge&logo=github)](https://arshiakosha.github.io/Bank-Data-Analysis-Project/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://github.com/arshiakosha/Bank-Data-Analysis-Project)
+[![Excel Analysis](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel)](https://github.com/arshiakosha/Bank-Data-Analysis-Project)
 
 > **A comprehensive digital transformation strategy analysis for StreamlineBank, identifying critical performance gaps and providing actionable recommendations for a $50M investment initiative.**
 
@@ -71,14 +71,14 @@ This analysis examines StreamlineBank’s critical need for digital transformati
 
 ### 💰 **Product Performance Deep Dive**
 
-#### **Digital-Revenue Correlation Analysis**
+#### **Product Performance Deep Dive**
 
 |Product Category       |Quarterly Revenue|Digital Adoption|Strategic Insight                                           |
 |-----------------------|-----------------|----------------|------------------------------------------------------------|
 |**Investment Accounts**|$1.74M           |**79.4%**       |🟢 Digital-native success model                              |
 |**Credit Cards**       |$1.97M           |**73.3%**       |🟢 Mobile-first usage optimal                                |
-|**Checking Accounts**  |N/A              |**67.4%**       |🟡 Daily transaction digital opportunity                     |
-|**Savings Accounts**   |N/A              |**63.4%**       |🟡 Traditional product modernization needed                  |
+|**Checking Accounts**  |$890K            |**67.4%**       |🟡 Daily transaction digital opportunity                     |
+|**Savings Accounts**   |$625K            |**63.4%**       |🟡 Traditional product modernization needed                  |
 |**Mortgages**          |$2.56M           |**40.3%**       |🔴 **Massive digital gap** - highest revenue, lowest adoption|
 
 **Critical Finding**: Mortgage products represent the **largest digital transformation opportunity** - $2.56M revenue with only 40.3% digital adoption suggests **$1M+ potential revenue unlock** through digital mortgage platform development.
@@ -117,7 +117,7 @@ This analysis examines StreamlineBank’s critical need for digital transformati
 
 ## 📊 **Dashboard Features**
 
-🔗 **[🚀 VIEW LIVE INTERACTIVE DASHBOARD](https://arshiakosha.github.io/streamlinebank-analysis/)**
+🔗 **[🚀 VIEW LIVE INTERACTIVE DASHBOARD](https://arshiakosha.github.io/Bank-Data-Analysis-Project/)**
 
 The comprehensive dashboard includes:
 
@@ -191,7 +191,7 @@ The comprehensive dashboard includes:
 #### **Data Architecture**
 
 ```
-streamlinebank-analysis/
+Bank-Data-Analysis-Project/
 ├── 📊 dashboard/
 │   ├── index.html          # Interactive executive dashboard
 │   ├── styles.css          # Modern CSS with animations
@@ -233,11 +233,11 @@ streamlinebank-analysis/
 
 ### **Core Competencies Demonstrated**
 
-- **Strategic Business Analysis**: $50M investment strategy development
-- **Data Visualization**: Power BI & custom dashboard creation
-- **Financial Modeling**: ROI projections and risk assessment
-- **Digital Transformation**: Technology strategy and change management
-- **Competitive Intelligence**: Market positioning and gap analysis
+- **Strategic Business Analysis**: Large-scale investment strategy development
+- **Advanced Data Visualization**: Interactive dashboard design and implementation
+- **Financial Modeling**: Revenue projections and risk assessment frameworks
+- **Digital Transformation Strategy**: Technology integration and change management
+- **Market Research**: Competitive analysis and positioning strategies
 
 -----
 
@@ -262,12 +262,12 @@ This project is licensed under the MIT License - see the <LICENSE> file for deta
 
 ## 🌟 **Key Takeaways for Executive Action**
 
-### **Immediate Priorities (Next 30 Days)**
+### **Immediate Priorities (Next Quarter)**
 
-1. **Approve $50M Investment**: Full transformation budget authorization
-1. **Establish Toronto Digital Center**: $8M flagship location setup
-1. **Mobile Platform Development**: Address 3.6-point competitive gap
-1. **Staff Training Initiative**: Cultural transformation preparation
+1. **Investment Strategy Approval**: Digital transformation budget allocation
+1. **Pilot Program Launch**: Toronto digital center establishment
+1. **Platform Development**: Mobile banking capability enhancement
+1. **Change Management**: Staff training and cultural preparation
 
 ### **Strategic Success Factors**
 
@@ -287,5 +287,5 @@ Transform StreamlineBank from **digital laggard** to **community-focused, digita
 -----
 
 **Last Updated**: September 2025  
-**Analysis Status**: ✅ Complete Executive Summary | 🚀 Dashboard Live | 📈 ROI Validated  
-**Implementation**: 🔄 Ready for Phase 1 Deployment | 💰 $50M Investment Approved
+**Analysis Status**: ✅ Executive Summary Complete | 🚀 Dashboard Deployed | 📈 Implementation Ready  
+**Project Phase**: 🔄 Strategic Planning | 💼 Executive Review
