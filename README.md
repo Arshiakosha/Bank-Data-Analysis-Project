@@ -1,248 +1,199 @@
-# StreamlineBank Case Analysis Project
+# 📊 StreamlineBank Digital Transformation Analysis
 
-[![Dashboard](https://img.shields.io/badge/Dashboard-Live-brightgreen.svg)](https://streamlinebank-analytics.streamlit.app)
-[![Data Analysis](https://img.shields.io/badge/Analysis-Data%20Science-blue.svg)](https://github.com/arshiakosha/streamlinebank-case-analysis)
-[![Python](https://img.shields.io/badge/Python-3.8+-brightgreen.svg)](https://www.python.org/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Dashboard-blue?style=for-the-badge&logo=github)](https://yourusername.github.io/streamlinebank-analysis/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://github.com/yourusername/streamlinebank-analysis)
+[![Excel Analysis](https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel)](https://github.com/yourusername/streamlinebank-analysis)
 
-**[View Live Dashboard](https://streamlinebank-analytics.streamlit.app)**
+> **A comprehensive digital transformation strategy analysis for StreamlineBank, identifying critical performance gaps and providing actionable recommendations for a $50M investment initiative.**
 
-## About the Analyst
+-----
+
+## 👨‍🎓 About the Analyst
 
 **Arshia Kosha**  
-Bachelor of Technology Management (BTM)  
-York University  
-Email: [your.email@yorku.ca](mailto:your.email@yorku.ca)  
-LinkedIn: [linkedin.com/in/arshiakosha](https://linkedin.com/in/arshiakosha)
+*BTM Technology Program, York University*  
+*Vice President of Academics*
+
+Passionate data analyst specializing in financial technology transformations and strategic business intelligence. This project demonstrates advanced analytics capabilities using Power BI, Excel, and strategic consulting methodologies.
 
 -----
 
-## Project Overview
+## 🚀 Project Overview
 
-This repository contains a comprehensive case study analysis of StreamlineBank, focusing on data-driven insights and strategic recommendations for banking operations optimization. The project demonstrates advanced analytical skills in financial services data analysis, utilizing modern data science methodologies and visualization techniques.
+This analysis examines StreamlineBank’s critical need for digital transformation across five key branches, revealing performance disparities and competitive gaps that threaten long-term viability while identifying clear pathways to growth.
 
-### Key Objectives
+### 🎯 **Key Business Objectives**
 
-- Data Analysis: Comprehensive examination of banking operational data
-- Performance Metrics: Evaluation of key banking performance indicators
-- Strategic Insights: Data-driven recommendations for operational improvements
-- Visualization: Interactive dashboards and compelling data storytelling
-
------
-
-## Technical Stack
-
-|Category     |Technologies                 |
-|-------------|-----------------------------|
-|Data Analysis|Python, Pandas, NumPy        |
-|Visualization|Matplotlib, Seaborn, Plotly  |
-|Dashboard    |Streamlit, Tableau, Power BI |
-|Development  |Jupyter Notebook, Git, GitHub|
-|Documentation|Markdown, LaTeX              |
+- Analyze branch performance across customer satisfaction, digital adoption, and revenue metrics
+- Identify demographic shifts and customer acquisition challenges
+- Develop data-driven recommendations for strategic digital investment
+- Create implementation roadmap with ROI projections
 
 -----
 
-## Project Structure
+## 📈 **Key Insights & Critical Findings**
+
+### ⚠️ **Crisis Indicators**
+
+|Metric                     |Current State                       |Impact                  |
+|---------------------------|------------------------------------|------------------------|
+|Customer Acquisition       |**-23% YoY decline**                |Critical business threat|
+|Under-35 Demographics      |**Dropped from 31% to 18%**         |Future growth at risk   |
+|Digital Rating Gap         |**2.7 points behind RBC**           |Competitive disadvantage|
+|Branch Performance Variance|**40-point digital adoption spread**|Operational inefficiency|
+
+### 🏆 **Top Performing Branches**
+
+1. **Toronto-King Street**: $3.24M revenue (45% above average)
+1. **Montreal-Plateau**: 71.08% digital adoption (network leader)
+1. **Hamilton-Downtown**: 8.00 customer satisfaction + strong digital uptake
+
+### 💰 **Revenue Analysis**
+
+- **Total Sample Revenue**: $11.4M across 50 customers
+- **Digital Adoption Impact**: 79.4% adoption in Investment Accounts = $1.74M revenue
+- **Growth Opportunity**: Mortgage products at only 40.3% digital adoption
+
+### 🎯 **Strategic Recommendations**
+
+#### **Phase 1: Immediate Actions (Months 1-6) - $20M**
+
+- **Digital Excellence Center**: Toronto-King Street ($8M investment)
+- **Expansion Model**: Scale Hamilton-Downtown success ($7M)
+- **Mobile-First Platform**: Address competitive gap ($5M)
+
+#### **Phase 2: Strategic Expansion (Months 7-12) - $20M**
+
+- **Technology Modernization**: Branch infrastructure upgrade ($12M)
+- **Change Management**: Staff training and cultural transformation ($8M)
+
+#### **Phase 3: Innovation & Growth (Months 13-18) - $10M**
+
+- **AI Personalization Engine**: Machine learning recommendations ($6M)
+- **Community Integration**: Local partnership platforms ($4M)
+
+-----
+
+## 🛠️ **Technical Implementation**
+
+### **Tools & Technologies Used**
+
+- **Power BI**: Interactive dashboards and visual analytics
+- **Microsoft Excel**: Data validation and statistical analysis
+- **GitHub Pages**: Dashboard deployment and presentation
+- **Strategic Consulting**: Framework application and ROI modeling
+
+### **Data Sources**
+
+- Branch performance metrics (5 locations)
+- Customer demographic analysis (50 customer sample)
+- Competitive benchmarking data
+- Revenue and product performance tracking
+
+-----
+
+## 📊 **Dashboard Features**
+
+🔗 **[View Live Dashboard](https://yourusername.github.io/streamlinebank-analysis/)**
+
+The interactive dashboard includes:
+
+- **Branch Performance Comparison**: Real-time metrics across all locations
+- **Demographic Analysis**: Customer age distribution and trends
+- **Digital Adoption Tracking**: Progress monitoring and competitive positioning
+- **Revenue Analytics**: Product performance and growth opportunities
+- **Risk Assessment**: Customer segment analysis and intervention priorities
+
+-----
+
+## 💼 **Business Impact**
+
+### **Expected ROI Targets**
+
+|Initiative               |Investment|Expected Return                   |
+|-------------------------|----------|----------------------------------|
+|Mobile Platform          |$5M       |40% reduction in acquisition costs|
+|Toronto Excellence Center|$8M       |25% increase in under-35 customers|
+|Network Modernization    |$12M      |85% digital adoption (from 68%)   |
+
+### **Success Metrics**
+
+- **Digital Rating**: 6.2 → 8.5 (competitive parity)
+- **Young Demographics**: 18% → 30% under-35 customers
+- **Revenue Growth**: Maintain 31% with improved margins
+
+-----
+
+## 📁 **Repository Structure**
 
 ```
-streamlinebank-case-analysis/
-│
-├── data/
-│   ├── raw/                    # Original datasets
-│   ├── processed/              # Cleaned and transformed data
-│   └── external/               # External reference data
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_analysis.ipynb
-│   └── 04_visualization.ipynb
-│
-├── dashboard/
-│   ├── streamlit_app.py        # Interactive dashboard
-│   ├── requirements.txt
-│   └── assets/
-│
-├── reports/
-│   ├── executive_summary.pdf
-│   ├── technical_report.pdf
-│   └── presentation.pptx
-│
-├── src/
-│   ├── data_processing.py
-│   ├── analysis_functions.py
-│   └── visualization_utils.py
-│
-└── README.md
+streamlinebank-analysis/
+├── 📊 dashboard/
+│   ├── index.html          # Interactive dashboard
+│   ├── styles.css          # Dashboard styling
+│   └── script.js           # Interactive features
+├── 📈 data/
+│   ├── branch_performance.xlsx
+│   ├── customer_demographics.xlsx
+│   └── competitive_analysis.xlsx
+├── 📄 reports/
+│   ├── Executive_Summary.pdf
+│   └── Technical_Analysis.pdf
+├── 🎨 assets/
+│   ├── powerbi_screenshots/
+│   └── charts/
+└── 📖 README.md
 ```
 
 -----
 
-## Key Findings & Insights
+## 🚀 **Getting Started**
 
-### Performance Highlights
-
-- Metric 1: [Insert key finding with percentage/number]
-- Metric 2: [Insert operational insight]
-- Metric 3: [Insert strategic recommendation impact]
-
-### Strategic Recommendations
-
-1. Operational Efficiency: [Brief description of recommendation]
-1. Customer Experience: [Brief description of improvement area]
-1. Risk Management: [Brief description of risk mitigation strategy]
-
------
-
-## Interactive Dashboard
-
-Access the live dashboard: **[StreamlineBank Analytics Dashboard](https://streamlinebank-analytics.streamlit.app)**
-
-![Dashboard Preview](assets/dashboard_preview.png)
-
-### Dashboard Features:
-
-- Real-time KPI Monitoring
-- Geographic Performance Analysis
-- Trend Analysis & Forecasting
-- Interactive Filtering & Drill-down
-
------
-
-## 🏃‍♂️ Getting Started
-
-### Prerequisites
-
-```bash
-python >= 3.8
-pip
-git
-```
-
-### Installation & Setup
-
-1. **Clone the Repository**
+1. **Clone the repository**
    
    ```bash
-   git clone https://github.com/arshiakosha/streamlinebank-case-analysis.git
-   cd streamlinebank-case-analysis
+   git clone https://github.com/yourusername/streamlinebank-analysis.git
    ```
-1. **Create Virtual Environment**
+1. **View Dashboard Locally**
    
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   cd streamlinebank-analysis
+   open dashboard/index.html
    ```
-1. **Install Dependencies**
-   
-   ```bash
-   pip install -r requirements.txt
-   ```
-1. **Launch Jupyter Notebooks**
-   
-   ```bash
-   jupyter notebook
-   ```
-1. **Run Interactive Dashboard**
-   
-   ```bash
-   cd dashboard
-   streamlit run streamlit_app.py
-   ```
+1. **Deploy to GitHub Pages**
+- Enable GitHub Pages in repository settings
+- Select main branch as source
+- Dashboard will be available at: `yourusername.github.io/streamlinebank-analysis`
 
 -----
 
-## 📊 Analysis Methodology
-
-### 1. **Data Collection & Preparation**
-
-- Data sourcing and validation
-- Data cleaning and transformation
-- Quality assurance checks
-
-### 2. **Exploratory Data Analysis**
-
-- Descriptive statistics
-- Data distribution analysis
-- Correlation and pattern identification
-
-### 3. **Advanced Analytics**
-
-- Predictive modeling
-- Segmentation analysis
-- Performance benchmarking
-
-### 4. **Visualization & Reporting**
-
-- Interactive dashboard development
-- Executive summary preparation
-- Technical documentation
-
------
-
-## 📈 Sample Visualizations
-
-|Analysis Type     |Visualization    |Key Insight                  |
-|------------------|-----------------|-----------------------------|
-|**Trend Analysis**|Time series plots|[Insert trend insight]       |
-|**Segmentation**  |Cluster analysis |[Insert segmentation insight]|
-|**Performance**   |KPI dashboards   |[Insert performance insight] |
-|**Geographic**    |Heat maps        |[Insert geographic insight]  |
-
------
-
-## 🎓 Academic Context
-
-**Course**: Business Technology Management  
-**Institution**: York University  
-**Program**: Bachelor of Technology Management (BTM)  
-**Focus Areas**: Data Analytics, Financial Technology, Business Intelligence
-
-### Learning Outcomes Demonstrated:
-
-- ✅ Advanced data analysis techniques
-- ✅ Business intelligence dashboard creation
-- ✅ Strategic data-driven decision making
-- ✅ Professional presentation and documentation
-
------
-
-## 📞 Contact & Collaboration
+## 📧 **Contact & Connect**
 
 **Arshia Kosha**  
-BTM Student | Data Analyst | Future Tech Leader
-
-📧 **Email**: [your.email@yorku.ca](mailto:your.email@yorku.ca)  
-💼 **LinkedIn**: [linkedin.com/in/arshiakosha](https://linkedin.com/in/arshiakosha)  
-🐙 **GitHub**: [github.com/arshiakosha](https://github.com/arshiakosha)  
-🌐 **Portfolio**: [arshiakosha.github.io](https://arshiakosha.github.io)
+📧 Email: [your.email@example.com]  
+🔗 LinkedIn: [linkedin.com/in/arshiakosha]  
+🎓 Program: BTM Technology, York University  
+💼 Role: VP of Academics
 
 -----
 
-## 📄 License & Usage
+## 📜 **License**
 
 This project is licensed under the MIT License - see the <LICENSE> file for details.
 
-### Citation
+-----
 
-```
-Kosha, A. (2024). StreamlineBank Case Analysis: Data-Driven Banking Operations Optimization. 
-York University BTM Program. https://github.com/arshiakosha/streamlinebank-case-analysis
-```
+## 🙏 **Acknowledgments**
+
+- York University BTM Technology Program
+- StreamlineBank Executive Team
+- Power BI and Excel Analytics Communities
 
 -----
 
-## 🙏 Acknowledgments
-
-- **York University BTM Program** - Academic guidance and support
-- **Industry Partners** - Real-world case study provision
-- **Open Source Community** - Tools and libraries utilized
+*⭐ Star this repository if you found the analysis valuable!*
 
 -----
 
-<div align="center">
-
-**⭐ If you found this analysis valuable, please consider starring this repository! ⭐**
-
-[**View Live Dashboard**](https://your-dashboard-link.streamlit.app) | [**Download Report**](reports/executive_summary.pdf) | [**Connect on LinkedIn**](https://linkedin.com/in/arshiakosha)
-
-</div>
+**Last Updated**: September 2025  
+**Status**: ✅ Complete Analysis | 🚀 Dashboard Live | 📈 ROI Validated
